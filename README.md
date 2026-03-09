@@ -1,21 +1,54 @@
-## Welcome to my GitHub Profile 🚀
-I am a web developer and instructor with experience in the following areas:
+# Hi, I'm Marvelous 👋
 
-- HTML
-- CSS
-- React
-- Laravel
-- Node.js
+**Backend Software Engineer** | PHP · Laravel · MySQL · REST APIs
 
-I am passionate about building responsive and user-friendly websites, and I enjoy sharing my knowledge with others through teaching 💻🎓.
+I build scalable backend systems for fintech and e-commerce platforms. Currently open to **remote backend roles**.
 
-My projects on GitHub showcase my skills in:
+---
 
-- Front-end development
-- Back-end development
+## 🔧 What I Do
 
-And demonstrate my ability to work with a variety of technologies. I am constantly learning and experimenting with new tools and frameworks to improve my skills and stay up-to-date with the latest industry developments 🔧🛠️.
+- Design and build **RESTful APIs** that power real businesses at scale
+- Develop **fintech backends** — payment flows, account management, transaction processing
+- Build **e-commerce platforms** — multi-vendor systems, order management, vendor dashboards
+- Write clean, maintainable **Laravel/PHP** code with a focus on performance and reliability
 
-Feel free to take a look at my projects, and if you have any questions or feedback, please don't hesitate to reach out to me. I am always happy to connect with other developers and learn from their experiences 🤝.
+---
 
-Thank you for visiting my profile! 🙏
+## 💼 Recent Experience
+
+| Company | Role | Impact |
+|---|---|---|
+| Green Tech Communication | Backend Developer | Fintech system serving 10+ enterprise businesses |
+| Chomart | Backend Developer | E-commerce platform with 500+ vendors & 6,000+ customers |
+
+---
+
+## 🛠 Tech Stack
+
+**Backend**
+`PHP` `Laravel` `MySQL` `REST APIs` `JWT Auth`
+
+**Frontend**
+`Vue.js` `React` `JavaScript`
+
+**Tools**
+`Git` `GitHub` `Postman`
+
+---
+
+## 📌 Pinned Projects
+
+Check out my pinned repos below — they showcase my work in Laravel, PHP, and TypeScript.
+
+---
+
+## 📫 Let's Connect
+
+- 📧 esmarvelog@gmail.com
+- 🐦 [@kodekontinet](https://twitter.com/kodekontinet)
+- 🌍 Delta State, Nigeria — Available for **remote work worldwide**
+
+---
+
+*Open to full-time remote roles and interesting contract projects.*
