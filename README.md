@@ -17,8 +17,8 @@
     <a href="https://rolomtech.com">
       <img src="https://img.shields.io/badge/Website-rolomtech.com-0284C7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
     </a>
-    <a href="https://twitter.com/kodekontinet">
-      <img src="https://img.shields.io/badge/X-@kodekontinet-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+    <a href="https://x.com/faculty_marvel">
+      <img src="https://img.shields.io/badge/X-@faculty__marvel-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)" />
     </a>
   </p>
 
@@ -136,8 +136,8 @@
 <a href="mailto:esmarvelog@gmail.com">
   <img src="https://img.shields.io/badge/Email-esmarvelog%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://twitter.com/kodekontinet">
-  <img src="https://img.shields.io/badge/Twitter-@kodekontinet-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+<a href="https://x.com/faculty_marvel">
+  <img src="https://img.shields.io/badge/X-@faculty__marvel-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)" />
 </a>
 <a href="https://rolomtech.com">
   <img src="https://img.shields.io/badge/Portfolio-rolomtech.com-4F46E5?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
